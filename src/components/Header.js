@@ -2,7 +2,7 @@ import React from "react";
 
 const styles = {
     header: {
-        backgroundColor: "green",
+        backgroundColor: "blue",
         color: "turquoise",
         textShadow: "10px 10px 25px black"
     }
