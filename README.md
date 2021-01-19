@@ -17,9 +17,10 @@ https://tranquil-atoll-72941.herokuapp.com
 
 In the project directory, you can run:
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 When you navigate to the page, you will see a full list of all employees. There is a dropdown with options to sort the list by either employee last name or by state, and you can also sort by these parameters by clicking on 'Name' and 'Location'. There is also an input field where you can filter the list by showing only employees in the state entered. Once filtered, the "Reset" button will bring the whole list back.
 
